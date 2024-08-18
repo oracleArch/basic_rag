@@ -1,6 +1,7 @@
 # Basic PDF RAG using locally running Ollama Mistral model
 
 ## Getting Started
+Following this tutorial on [youtube](https://www.youtube.com/watch?v=HRvyei7vFSM&list=PLCFswBzU3AblVORTNjUn6jernRfCNWwu3)
 
 ### Prerequisites
 
